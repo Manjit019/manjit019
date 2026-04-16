@@ -5,18 +5,23 @@
 </p>
 
 
-## 💫 ABOUT ME
+## 🌟 ABOUT ME
 
-✦ I’m a dedicated Mobile Application Developer and Full Stack Developer with a MERN background, focused on building intuitive, efficient, and user-driven solutions across platforms. My passion lies in creating mobile apps that not only work seamlessly but also deliver real value to users.
-_______
-✦ With a strong foundation in both frontend and backend, I bring a complete development perspective to every project. I’m constantly evolving, open to challenges, and driven to contribute to meaningful, high-impact work.
-___________
-✦ Driven by curiosity and a desire to grow, I continuously improve my skills, adapt to challenges, and aim to deliver meaningful solutions. I value clean design, intuitive user flow, and strong collaboration.
-________
-✦ My goal is to contribute to innovative projects, learn from great teams, and grow as a well-rounded developer who creates value through technology.
-______
+✦ I’m a dedicated **Mobile & Full Stack Developer** with a focus on the **MERN stack**. I specialize in building intuitive, efficient, and user-driven applications that prioritize seamless performance and real-world value.
 
-## 🌐 Connect With Me
+---
+
+✦ With a comprehensive understanding of the full development lifecycle, I approach every project with a 360-degree perspective. I am a lifelong learner, constantly adapting to new challenges and striving to contribute to high-impact, meaningful work.
+
+---
+
+✦ I am committed to **clean architecture**, **intuitive UX**, and **effective collaboration**. My ultimate goal is to evolve alongside world-class engineering teams while delivering innovative technology solutions.
+
+---
+
+> Whether it's a **dynamic web app**, a **cross-platform mobile solution**, or a **full-fledged backend system**, I enjoy bringing ideas to life with **clean, efficient code**.
+
+## **Let's connect and build something impactful! 🚀**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/manjit019" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -34,23 +39,39 @@ ______
 ## 🛠 Tech Stack
 
 #### 🎨 Frontend & Design
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,html,css,bootstrap,tailwind,figma,framer)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vite,redux,ts,js,html,css,tailwind,figma,zustand,framer)](https://skillicons.dev)
+<p align="left">
+  <!-- Framer -->
+  <img src="./framer.png" width="48" height="48" style="border-radius: 12px;" alt="Framer" />
+  <!-- Zustand -->
+  <img src="./zustand.png" width="48" height="48" style="border-radius: 12px;" alt="Zustand" />
+</p>
+
 
 #### ⚙️ Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,graphql,python,socketio,fastify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,graphql,python,firebase,supabase,socketio,fastify)](https://skillicons.dev)
+<p align="left">
+  <!-- Fastify -->
+  <img src="./fastify.png" width="48" height="48" style="border-radius: 12px;" alt="Fastify" />
+  <!-- Socket.io -->
+  <img src="./socket.png" width="48" height="48" style="border-radius: 12px;" alt="Socket.io" />
+</p>
+
 
 #### 📱 Mobile Development
 [![My Skills](https://skillicons.dev/icons?i=react,flutter,dart,kotlin)](https://skillicons.dev)
 
 #### ☁️ DevOps & Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,ubuntu,vercel,netlify,git,github,vscode,vim,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,ubuntu,vercel,netlify,git,github,vscode,webstorm,vim,postman)](https://skillicons.dev)
 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=manjit019&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=manjit019&theme=bear&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manjit019&theme=bear&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjit019&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ![]([https://nirzak-streak-stats.vercel.app/?user=manjit019&theme=bear&hide_border=true](https://profile-summary-for-github.com/user/Manjit019))<br/>
 
@@ -61,9 +82,32 @@ ______
 ![](https://github-contributor-stats.vercel.app/api?username=manjit019&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-![](https://visitcount.itsvg.in/api?id=Manjit019&icon=10&color=13)
 
----
+<div align="">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
 
 
 
