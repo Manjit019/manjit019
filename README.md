@@ -42,9 +42,9 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vite,redux,ts,js,html,css,tailwind,figma,zustand,framer)](https://skillicons.dev)
 <p align="left">
   <!-- Framer -->
-  <img src="./framer.png" width="48" height="48" style="border-radius: 12px;" alt="Framer" />
+  <img src="./framer_logo.png" width="48" height="48" style="border-radius: 12px;" alt="Framer" />
   <!-- Zustand -->
-  <img src="./zustand.png" width="48" height="48" style="border-radius: 12px;" alt="Zustand" />
+  <img src="./zustand_logo.png" width="48" height="48" style="border-radius: 12px;" alt="Zustand" />
 </p>
 
 
@@ -52,9 +52,9 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,graphql,python,firebase,supabase,socketio,fastify)](https://skillicons.dev)
 <p align="left">
   <!-- Fastify -->
-  <img src="./fastify.png" width="48" height="48" style="border-radius: 12px;" alt="Fastify" />
+  <img src="./fastify_logo.png" width="48" height="48" style="border-radius: 12px;" alt="Fastify" />
   <!-- Socket.io -->
-  <img src="./socket.png" width="48" height="48" style="border-radius: 12px;" alt="Socket.io" />
+  <img src="./socket_logo.png" width="48" height="48" style="border-radius: 12px;" alt="Socket.io" />
 </p>
 
 
