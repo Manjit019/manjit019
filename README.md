@@ -29,9 +29,6 @@
 <a href="mailto:manjitkumar1725@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-
 ![View Count ](https://komarev.com/ghpvc/?username=Manjit019)
 
 ---
@@ -66,25 +63,21 @@
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=manjit019&theme=bear&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manjit019&theme=bear&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjit019&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
+## 🌱 My Journey
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=manjit019&show_icons=true&theme=onedark&hide_border=true">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=manjit019&layout=compact&theme=onedark&hide_border=true" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=manjit019&theme=github&hide_border=true">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=manjit019&theme=onedark&hide_border=true" />
+</div>
 
 ![]([https://nirzak-streak-stats.vercel.app/?user=manjit019&theme=bear&hide_border=true](https://profile-summary-for-github.com/user/Manjit019))<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manjit019&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-![](https://raw.githubusercontent.com/{manjit019}/{manjit019}/output/github-contribution-grid-snake-dark.svg)
-
-
+## Feeding...
+![](https://raw.githubusercontent.com/manjit019/manjit019/output/github-contribution-grid-snake-dark.svg)
 
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
